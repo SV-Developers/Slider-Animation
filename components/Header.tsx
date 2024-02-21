@@ -12,7 +12,7 @@ function Header() {
       </Head>
       <div className="  flex items-center gap-2 font-medium tracking-[4px]">
         {/* <IoIosGlobe className=" text-xl" /> */}
-        <img src="Logo.png" alt="" style={{width: "50px", aspectRatio: "1", borderRadius: "50%"}} />
+        <img src="New_Logo.png" alt="" style={{width: "50px", aspectRatio: "1", borderRadius: "50%"}} />
         SV
       </div>
       <ul className=" flex flex-wrap items-center gap-3 text-[11px] md:gap-10">
