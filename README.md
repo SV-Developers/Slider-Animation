@@ -2,7 +2,7 @@
 
 Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
 
-<img alt="Nextjs Animated Slider"  src="https://www.facebook.com/61555948055256/videos/1647065925830538" width="100%" />
+<a href="https://www.facebook.com/61555948055256/videos/1647065925830538" width="100%" />
 
 ## 🖥 Demo
 
